@@ -13,9 +13,9 @@ func Subtraction (a,b int) int {
 }
 
 func Division (a,b int) int {
-	if b != 0 {
-		return a / b
-	}
+
+	return a / b
+	
 }
 
 func Multiplication (a,b int) int {
