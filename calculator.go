@@ -12,7 +12,7 @@ func Subtraction (a,b int) int {
 	return a - b
 }
 
-func Division (a,b int) int {
+func Division (a,b int) float64 {
 	
 	return a / b
 }
